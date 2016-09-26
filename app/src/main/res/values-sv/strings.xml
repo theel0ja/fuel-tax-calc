@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bränsleskatt Kalkylator</string>
+    <string name="price">Priset på bränsle</string>
+    <string name="calculate">Räkna</string>
+    <string name="taxes">Skatt</string>
+    <string name="info">Räknaren kan du beräkna skatterelaterade avgifter och bränsleskatter.</string>
+    <string name="hiilidioksidivero">Koldioxidskatt</string>
+    <string name="huoltovarmuusmaksu">Beredskapsavgift</string>
+    <string name="energiasisaltovero">Energiinnehåll skatt</string>
+    <string name="about">Information om programmet</string>
+    <string name="verollinen"></string>
+    <string name="veroton">Skattefria</string>
+    <string name="totalTaxes">Totala skatter</string>
+    <string name="vat">mOMS</string>
+</resources>

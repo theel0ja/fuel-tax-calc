@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fuel Tax Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="info">This calculator allows you to calculate tax-related charges and fuel taxes.</string>
+    <string name="price">Fuel price</string>
+    <string name="taxes">Taxes</string>
+    <string name="energiasisaltovero">Energy Content Tax</string>
+    <string name="hiilidioksidivero">Carbon Tax</string>
+    <string name="huoltovarmuusmaksu">Emergency Supply Policy</string>
+    <string name="about">About</string>
+    <string name="vat">VAT</string>
+    <string name="verollinen">Incl</string>
+    <string name="totalTaxes">Total Taxes</string>
+    <string name="veroton">Tax-Free</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Polttoaineverolaskuri</string>
+    <string name="calculate">Laske</string>
+    <string name="price">Polttoaineen hinta</string>
+    <string name="info">Laskurin avulla voit laskea polttoaineen veron ja veronluonteiset maksut.</string>
+    <string name="taxes">Verot</string>
+    <string name="energiasisaltovero">Energiasisältövero</string>
+    <string name="hiilidioksidivero">Hiilidoksidivero</string>
+    <string name="huoltovarmuusmaksu">Huoltovarmuusmaksu</string>
+    <string name="about">Tietoa</string>
+    <string name="vat">ALV</string>
+    <string name="verollinen">Verollinen</string>
+    <string name="veroton">Veroton</string>
+    <string name="totalTaxes">Verot yhteensä</string>
+</resources>
