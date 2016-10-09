@@ -5,10 +5,10 @@ android {
     buildToolsVersion "24.0.2"
     defaultConfig {
         applicationId "info.theel0ja.pavero"
-        minSdkVersion 17
+        minSdkVersion 10
         targetSdkVersion 24
-        versionCode 3
-        versionName '1.0.2'
+        versionCode 4
+        versionName '1.0.3'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
