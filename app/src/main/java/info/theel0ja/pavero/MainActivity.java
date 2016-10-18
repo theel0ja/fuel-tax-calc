@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.EditText;
 import android.text.TextUtils;
+import android.widget.Toast;
 
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
@@ -36,8 +37,7 @@ public class MainActivity extends AppCompatActivity {
         String verollinenTxt = hinta.getText().toString();
 
         if (TextUtils.isEmpty(verollinenTxt)) {
-            // nothing
-            // some modal etc?
+            Toast.makeText(this, getString(R.string.isEmpty), Toast.LENGTH_LONG).show();
         }
         else {
             double verollinen = Double.parseDouble(hinta.getText().toString());

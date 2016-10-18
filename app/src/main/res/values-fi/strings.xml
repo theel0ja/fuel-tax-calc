@@ -13,4 +13,5 @@
     <string name="verollinen">Verollinen</string>
     <string name="veroton">Veroton</string>
     <string name="totalTaxes">Verot yhteensä</string>
+    <string name="isEmpty">Hinta on tyhjä!</string>
 </resources>

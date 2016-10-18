@@ -15,4 +15,5 @@
     <string name="veroton">Veroton</string>
     <string name="verollinen">Incl</string>
     <string name="totalTaxes">Total Taxes</string>
+    <string name="isEmpty">Price is empty!</string>
 </resources>

@@ -13,4 +13,5 @@
     <string name="veroton">Skattefria</string>
     <string name="totalTaxes">Totala skatter</string>
     <string name="vat">mOMS</string>
+    <string name="isEmpty">Priset är tom!</string>
 </resources>
